@@ -6,6 +6,7 @@
         "short hash",
         "Number Hash"
     ],
+    "version":"0.0.1",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -13,6 +14,7 @@
             "email": "example@example.com"
         }
     ],
+    "minimum-stability":"dev",
     "require": {
         "php": ">=8.0.0"
     },
