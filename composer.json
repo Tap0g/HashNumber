@@ -3,7 +3,8 @@
     "description": "Generate reversible codes from numbers and revert them to original number",
     "keywords": [
         "short url",
-        "short hash"
+        "short hash",
+        "Number Hash"
     ],
     "license": "BSD-3-Clause",
     "authors": [
